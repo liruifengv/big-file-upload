@@ -31,7 +31,6 @@ const uploadFile = async (fileData) => {
     },
     data: fileData,
   })
-  console.log('res:', res)
   return res.data
 }
 
