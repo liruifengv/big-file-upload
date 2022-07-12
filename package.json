@@ -1,0 +1,24 @@
+{
+  "name": "big-file-upload",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "crypto-js": "^4.1.1",
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.0",
+    "proxy-polyfill": "^0.3.2",
+    "qs": "^6.11.0",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
